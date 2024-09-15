@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_qt_entry_level_project_FILE /home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/qt_entry_level_project)
+set(__QT_DEPLOY_TARGET_qt_entry_level_project_TYPE EXECUTABLE)

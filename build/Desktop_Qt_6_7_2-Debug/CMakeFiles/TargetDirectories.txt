@@ -1,0 +1,9 @@
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qt_entry_level_project.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qt_entry_level_project_autogen_timestamp_deps.dir
+/home/kamil/qt_entry_level_project/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/qt_entry_level_project_autogen.dir
